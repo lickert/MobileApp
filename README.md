@@ -1,6 +1,6 @@
 # TeamMobile
 
-This is code that I programmed with one of my classmated for my SE2 class during the fall of 2020.
+This is code that I programmed with one of my classmates for my SE2 class during the fall of 2020.
 
 The application serves the purpose of acting as a scheduling application for professors scheduling jobs at a university.
 
